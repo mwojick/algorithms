@@ -1,5 +1,6 @@
 // Subsets
 // LeetCode (Medium)
-// Amazon
+// Amazon, Facebook, Google, Uber, Microsoft
 
-// TODO
+// nums is a set of distinct integers
+const subsets = nums => {};

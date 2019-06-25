@@ -34,6 +34,6 @@ const letterCombRec = (result, digits, currentStr, index, mapping) => {
   });
 };
 
-let digits1 = "2";
+let digits1 = "25";
 let test = letterComb(digits1);
 console.log("letterComb:", test);
